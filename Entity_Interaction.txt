@@ -1,0 +1,64 @@
+Entity: Champion, Minnion, Turret, Bush, River
+
+Champion
+- Health
+- Mana/Energy/OverHeat...
+- Attack Damage
+- Attack Speed
+- Range
+- Hit Box
+- Armor
+- Cooldown
+- Vision
+- Upon_Distruction
+- Movement Speed
+
+- gold
+- skill
+
+
+Minnion
+- Health
+- Attack Damage
+- Attack Speed
+- Range
+- Hit Box
+- Armor
+- Vision
+- Upon_Distruction
+- Movement Speed
+
+
+Turret
+- Health
+- Attack Damage
+- Attack Speed
+- Range
+- Hit Box
+- Armor
+- Vision
+- Upon_Distruction
+- Movement Speed
+
+
+Ground
+- Hit Box
+
+Bush
+- Hit Box
+
+River
+- Hit Box
+
+Items
+- Cost
+- Attack Damage
+- Attack Range
+- Movement Speed
+- Cooldown
+- Armor
+
+Two main entity
+- Champion/Minnion/Turret
+- Ground/Bush/River
+- Items
